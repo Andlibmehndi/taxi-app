@@ -22,3 +22,7 @@ Directories Overview:
   7. other - contains mostly additional packages and code that was utlized at various stages by the app. 
   8. taxi_simulator - the simulator code for initial random movement of taxi within the given boundary.
   9. user_simulator - contains code handles the user side activites such as taxi search and cab booking at the console level.
+
+
+## Architecture Diagram
+![Architecture Diagram](/Architecture_Diagram_final.png?raw=true "Title")
